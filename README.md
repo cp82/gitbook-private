@@ -2,5 +2,5 @@
 
 Test
 
-[Seite 1](PAGE1.md)
+[Seite 1](page1.md)
 
